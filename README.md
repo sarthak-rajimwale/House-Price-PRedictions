@@ -17,3 +17,5 @@ Visualization: Employed Matplotlib for visualizing trends in property prices and
 Predictive Modeling: Built machine learning models using scikit-learn to predict property prices.
 Web Deployment: Deployed the predictive model using Flask for interactive web access.
 Cloud Hosting: Hosted the Flask application on AWS to ensure scalability and reliability.
+
+The link to the actual model: http://ec2-13-51-72-214.eu-north-1.compute.amazonaws.com:5000/
